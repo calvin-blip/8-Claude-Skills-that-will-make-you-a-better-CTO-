@@ -55,4 +55,4 @@ What to expect: a CEO alignment script, an Iron Triangle negotiation framework, 
 
 About Nivaro
 Nivaro helps CTOs and engineering leaders augment their workforce with US-based developers who ship in days, not quarters. Every engineer carries 15 or more years of experience across Fortune 100 companies and the most demanding startups in the country. AI-native workflows. No timezone math. No ramp-up theater.
-nivaro.io
+www.nivaro.io
